@@ -1,2 +1,2 @@
 # palindromic-link
-C++ Programming:  Storing palindromic words to a linked list structure.
+Propose an algorithm capable of identifying palindromic words (ex. "cojoc" or "calabalac") from a list of words. 
